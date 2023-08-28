@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML](https://your-solution-url.com)
-- Solution URL: [CSS](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: [HTML](https://github.com/ZahidurRahman8759/Product-Preview-Card-Component/blob/766074cdcb5e332c6dfd79552513ca58d2fa3a21/index.html)
+- Solution URL: [CSS](https://github.com/ZahidurRahman8759/Product-Preview-Card-Component/blob/766074cdcb5e332c6dfd79552513ca58d2fa3a21/style.css)
+- Live Site URL: [LIVE SITE](https://zahidurrahman8759.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
